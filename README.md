@@ -35,7 +35,7 @@ storage_account_name = "XXXX"
 storage_rg = "XXXXXX"
 ```
 
-To see the value for the client password you can use the following command:
+To see the value for the storage account access key you can use the following command:
 
 ```bash
 terraform console
