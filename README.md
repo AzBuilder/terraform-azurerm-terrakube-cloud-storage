@@ -13,10 +13,9 @@ The module will require the following parameters:
 
 The module will output the following values:
 
-- Azure Active Directory Application Id
-- Azure Active Directory Tenat Id
-- Azure Active Directory Application API URI
-- Azure Active Directory Password
+- Storage account name
+- Storage account resource group
+- Storage account access key
 
 Example:
 
